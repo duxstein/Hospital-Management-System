@@ -1,5 +1,4 @@
 # Hospital-Management-System
-# Hospital Management System
 
 A comprehensive web-based hospital management system built with Flask, featuring patient management, doctor profiles, appointment scheduling, and administrative controls.
 
